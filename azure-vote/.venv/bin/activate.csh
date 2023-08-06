@@ -8,7 +8,7 @@ alias deactivate 'test $?_OLD_VIRTUAL_PATH != 0 && setenv PATH "$_OLD_VIRTUAL_PA
 # Unset irrelevant variables.
 deactivate nondestructive
 
-setenv VIRTUAL_ENV "/Users/aranjani/Documents/Udacity_Training/projects/Enhancing_Application/Enhance_App/azure-vote/.venv"
+setenv VIRTUAL_ENV "/Users/aranjani/Documents/Udacity_Training/projects/Enhancing_Application/App_Enhancement/azure-vote/.venv"
 
 set _OLD_VIRTUAL_PATH="$PATH"
 setenv PATH "$VIRTUAL_ENV/bin:$PATH"

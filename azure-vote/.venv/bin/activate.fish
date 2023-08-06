@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/aranjani/Documents/Udacity_Training/projects/Enhancing_Application/Enhance_App/azure-vote/.venv"
+set -gx VIRTUAL_ENV "/Users/aranjani/Documents/Udacity_Training/projects/Enhancing_Application/App_Enhancement/azure-vote/.venv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
